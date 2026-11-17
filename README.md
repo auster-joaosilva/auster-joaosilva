@@ -40,7 +40,6 @@
 
 <div>
   <a href="https://www.linkedin.com/in/joaopaulo3m/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://austercontabil.com.br"><img src="https://img.shields.io/badge/austercontabil.com.br-1f5c46?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Auster website"></a>
   <a href="mailto:joao.silva@austercontabil.com.br"><img src="https://img.shields.io/badge/Email-3d3d3a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
